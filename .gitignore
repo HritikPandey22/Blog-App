@@ -1,0 +1,8 @@
+node_modules/
+pakage-lock.json
+.env
+
+blog/node_modules/**
+blog/pakage-lock.json
+api/node_modules/**
+api/pakage-lock.json
